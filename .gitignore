@@ -1,0 +1,12 @@
+# Exclude files and directories
+build/
+bin/
+target/
+.settings/
+.metadata/
+.classpath
+.project
+*~
+# Exclude Java classes
+*.class
+dependency-reduced-pom.xml
